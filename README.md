@@ -2,7 +2,7 @@
 
 Salut, je suis Brice Harper ! 👋
 
-[![Twitter](https://img.shields.io/twitter/follow/mdubois1002?label=Twitter&style=social)]([lien_vers_votre_profil_twitter](https://twitter.com/mdubois1002))
+[![Twitter](https://img.shields.io/twitter/follow/mdubois1002?label=Twitter&style=social)](https://twitter.com/mdubois1002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([[lien_vers_votre_profil_linkedin](https://www.linkedin.com/in/%F0%9D%99%88%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%96%C3%AB%F0%9D%99%A1-%F0%9D%98%BF%F0%9D%99%90%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%84%F0%9D%99%8E-b230b4162/)])
 
 Je suis passionné par la programmation, la création d'applications et la résolution de problèmes. Mon objectif est de contribuer à des projets intéressants et d'apprendre continuellement.
