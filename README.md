@@ -30,11 +30,15 @@ Je suis passionné par la programmation, la création d'applications et la réso
 
 ## Mes Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Brice-Harper&show_icons=true&count_private=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Brice-Harper&show_icons=true&count_private=true&theme=tokyonight)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Brice-Harper&layout=compact&theme=tokyonight)
+
+![Statistiques de Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Brice_Harper&layout=compact&theme=tokyonight)
 
 ## Me Suivre
 
 [![Twitter](https://img.shields.io/twitter/follow/mdubois1002?label=Twitter&style=social)](https://twitter.com/mdubois1002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/%F0%9D%99%88%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%96%C3%AB%F0%9D%99%A1-%F0%9D%98%BF%F0%9D%99%90%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%84%F0%9D%99%8E-b230b4162/)
 
-_Mise à jour_ : '12-08-2023 à 22:49:56'
+_Mise à jour : 12-08-2023 à 23:11:02_
