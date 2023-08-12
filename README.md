@@ -1,3 +1,4 @@
+
 # Bienvenue sur mon Profil GitHub !
 
 Salut, je suis Brice Harper ! 👋
@@ -35,3 +36,5 @@ Je suis passionné par la programmation, la création d'applications et la réso
 
 [![Twitter](https://img.shields.io/twitter/follow/mdubois1002?label=Twitter&style=social)](https://twitter.com/mdubois1002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/%F0%9D%99%88%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%96%C3%AB%F0%9D%99%A1-%F0%9D%98%BF%F0%9D%99%90%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%84%F0%9D%99%8E-b230b4162/)
+
+Mise à jour : 2023-08-12
