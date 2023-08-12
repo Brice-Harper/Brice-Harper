@@ -10,17 +10,17 @@ Je suis passionné par la programmation, la création d'applications et la réso
 
 ## Quelques Choses sur Moi
 
-- 💼 Ingénieur Logiciel
-- 🌱 Actuellement en train d'apprendre [une technologie ou un langage en cours d'apprentissage]
-- 🔭 Travaillant sur [nom_du_projet_en_cours]
-- 🚀 Contribuant activement à [nom_du_projet_contribué]
-- 💬 Posez-moi des questions sur [sujet_de_prédilection]
-- 📫 Comment me joindre : [votre_email]
+- 💼 Développeur Logiciel
+- 💼 Expert ERP yparéo
+- 🌱 Actuellement en train d'apprendre Python / Tailwind / React / Angular
+- 🔭 Travaillant sur projet Daryl
+- 💬 N'hésitez pas à me poser vos questions
 
 ## Mes Projets
 
-- [Nom du Projet](lien_vers_le_projet) - Une brève description du projet et de ses fonctionnalités.
-- [Nom du Projet 2](lien_vers_le_projet) - Un autre projet intéressant que vous avez développé.
+- ![Static Badge](https://img.shields.io/badge/Statut-En_Cours-orange) [API_Explorer](https://github.com/Brice-Harper) - Application Streamlit qui permet d'utiliser de manière simple des API professionnelles
+- ![Static Badge](https://img.shields.io/badge/Statut-En_Cours-orange) [Projet Daryl](https://github.com/Brice-Harper) - Application personnelle de gestion des activités quotidiennes
+- ![Static Badge](https://img.shields.io/badge/Statut-En_Cours-orange) [PyFarm Adventures](https://github.com/Brice-Harper) - Un browserGame de gestion de ferme sous Django
 
 ## Mes Compétences
 
@@ -41,4 +41,4 @@ Je suis passionné par la programmation, la création d'applications et la réso
 [![Twitter](https://img.shields.io/twitter/follow/mdubois1002?label=Twitter&style=social)](https://twitter.com/mdubois1002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/%F0%9D%99%88%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%96%C3%AB%F0%9D%99%A1-%F0%9D%98%BF%F0%9D%99%90%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%84%F0%9D%99%8E-b230b4162/)
 
-_Mise à jour : 12-08-2023 à 23:11:02_
+_Mise à jour : 12-08-2023 à 23:30:18_
