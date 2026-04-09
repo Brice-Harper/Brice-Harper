@@ -1,5 +1,8 @@
 
-# Bienvenue sur mon Profil GitHub !
+<h1>Bienvenue sur mon Profil GitHub !</h1>
+<h3 align="center">Un développeur Python débutant mais passionné</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brice-harper&label=Profile%20views&color=0e75b6&style=flat" alt="brice-harper" /> </p>
 
 Salut, je suis Brice Harper ! 👋
 
@@ -45,11 +48,6 @@ Je suis passionné par la programmation, la création d'applications et la réso
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Microsoft&logoColor=white)](mailto:michael.dubois1002@outlook.fr)
 
 ___
-
-<h1 align="center">Salut 👋, je suis Brice Harper</h1>
-<h3 align="center">Un développeur Python débutant mais passionné</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brice-harper&label=Profile%20views&color=0e75b6&style=flat" alt="brice-harper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brice-harper" alt="brice-harper" /></a> </p>
 
