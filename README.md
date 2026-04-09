@@ -25,7 +25,7 @@ Je suis passionné par la programmation, la création d'applications et la réso
 
 ## Mes Compétences
 
-- Langages de Programmation : Python
+- Langages de Programmation : ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Frameworks et Bibliothèques : Django
 - Outils de Développement : Git, PyCharm, Visual Studio Code
 
