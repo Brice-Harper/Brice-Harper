@@ -3,10 +3,6 @@
 
 Salut, je suis Brice Harper ! 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdubois1002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1002-michael-dubois/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Microsoft&logoColor=white)](mailto:michael.dubois1002@outlook.fr)
-
 Je suis passionné par la programmation, la création d'applications et la résolution de problèmes. Mon objectif est de contribuer à des projets intéressants et d'apprendre continuellement.
 
 ## Quelques Choses sur Moi
@@ -31,15 +27,11 @@ Je suis passionné par la programmation, la création d'applications et la réso
 
 ## Mes Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Brice-Harper&show_icons=true&count_private=true&theme=tokyonight)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Brice-Harper&layout=compact&theme=tokyonight)
-
-![Statistiques de Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Brice_Harper&layout=compact&theme=tokyonight)
+![Contributions](https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&theme=radical)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-d-utilisateur&layout=compact&theme=radical)
 
 ## Me Suivre
 
-[![Twitter](https://img.shields.io/twitter/follow/mdubois1002?label=Twitter&style=social)](https://twitter.com/mdubois1002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/%F0%9D%99%88%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%96%C3%AB%F0%9D%99%A1-%F0%9D%98%BF%F0%9D%99%90%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%84%F0%9D%99%8E-b230b4162/)
-
-_Mise à jour : 20-09-2024 à 08:00:02_
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdubois1002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1002-michael-dubois/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Microsoft&logoColor=white)](mailto:michael.dubois1002@outlook.fr)
