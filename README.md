@@ -5,7 +5,7 @@ Salut, je suis Brice Harper ! 👋
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdubois1002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1002-michael-dubois/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.dubois1002@outlook.fr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:michael.dubois1002@outlook.fr)
 
 Je suis passionné par la programmation, la création d'applications et la résolution de problèmes. Mon objectif est de contribuer à des projets intéressants et d'apprendre continuellement.
 
