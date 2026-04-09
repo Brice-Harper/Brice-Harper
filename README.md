@@ -1,5 +1,5 @@
 
-<h1>Bienvenue sur mon Profil GitHub !</h1>
+<h1 align="center">Bienvenue sur mon Profil GitHub !</h1>
 <h3 align="center">Un développeur Python débutant mais passionné</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brice-harper&label=Profile%20views&color=0e75b6&style=flat" alt="brice-harper" /> </p>
