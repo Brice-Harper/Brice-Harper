@@ -20,19 +20,18 @@ Je suis passionné par la programmation, la création d'applications et la réso
 - ![Static Badge](https://img.shields.io/badge/Statut-En_Cours-orange) [PyFarm Adventures](https://github.com/Brice-Harper) - Un browserGame de gestion de ferme sous Django
 
 ## Mes Compétences
-
-- Langages de Programmation :
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- Frameworks et Bibliothèques :
-![Flask](https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- Outils de Développement : , , Visual Studio Code
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/vscode-3793EF?style=for-the-badge&logoColor=white)
-![NotePad++](https://img.shields.io/badge/notepadplusplus-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
+### Langages de Programmation :
+- ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Frameworks et Bibliothèques :
+- ![Flask](https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white)
+- ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Outils de Développement : , , Visual Studio Code
+- ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![PyCharm](https://img.shields.io/badge/pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/vscode-3793EF?style=for-the-badge&logoColor=white)
+- ![NotePad++](https://img.shields.io/badge/notepadplusplus-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 
 ## Mes Statistiques GitHub
 
